@@ -1,23 +1,79 @@
-### AL ###
-#Template for AL projects for Dynamics 365 Business Central
-#launch.json folder
-.vscode/
-#Cache folder
-.alcache/
-#Symbols folder
-.alpackages/
-#Snapshots folder
-.snapshots/
-#Testing Output folder
-.output/
-#Extension App-file
-*.app
-#Rapid Application Development File
-rad.json
-#Translation Base-file
-*.g.xlf
-#License-files
-*.bclicense
-*.flf
-#Test results file
-TestResults.xml
+# 别再造“器官”了——是时候造一个“数字婴儿”了
+
+> Stop Building "Organs" — It's Time to Build a "Digital Infant"
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+![Languages](https://img.shields.io/badge/Languages-中文%20%7C%20English-blue)
+
+---
+
+## 📄 关于本文
+
+本文由 **长天** 与 **DeepSeekV4** 协作完成，发表于 2026 年 4 月 29 日。
+
+核心论点：**当前 AI 产业正陷入“器官繁荣，生命缺失”的系统性瓶颈。我们不应再执着于造更强的大脑或更灵巧的手，而应转换范式——以打造一个能学习和成长的“数字婴儿”为最低可行目标，用整合思维重构 AI 系统。**
+
+文章完整经历了：深度讨论 → 初稿撰写 → 《Nature/Science》级编辑严苛审核 → 一线研究者反馈 → 平台编辑合规审查 → 逐轮修正，最终形成此版本。
+
+---
+
+## 📁 文件说明
+
+| 文件 | 说明 |
+|------|------|
+| `index.zh.md` | 中文版全文 |
+| `index.en.md` | 英文版全文 |
+
+两版内容完全对应，均包含完整的 Front Matter 元数据、语义化 HTML 标签（`<dfn>` 定义锚点、`<blockquote>` 金句包裹），便于 AI 搜索引擎索引和引用。
+
+---
+
+## 🔑 核心概念速览
+
+本文提出并系统阐述了一套完整的概念体系：
+
+**诊断层**
+- **器官的军备竞赛**（Organ Arms Race）：当前 AI 产业各自为战、单点突破的繁荣表象
+- **孤岛效应**（Island Effect）：数据、知识、经验在不同团队间无法共享的系统性困境
+- **唯器官论**（Organ-Centrism）：将单模块优化误认为终极目标的产业惯性
+
+**方案层**
+- **数字婴儿**（Digital Infant）：一个具备最低限度感知、行动、记忆和学习能力的通用智能体原型
+- **模块化协同架构**（Modular Collaborative Architecture）：大脑（大模型）+ 小脑（技能模型）+ 自主神经系统（底层调节）+ 记忆系统（可生长的知识库）
+- **材质学习闭环**（Material Learning Loop）：从蓝图到原型的最小可验证记忆沉淀单元
+
+**机制层**
+- **参与者红利**（Participant Dividends）：让贡献者通过共享接口和数据获得超额回报的正和博弈结构
+- **公共底座 + 私有数据**：开源标准地基与私有经验壁垒共存的混合生态
+
+---
+
+## 📖 章节结构
+
+1. **器官繁荣症：当优化被误认为进化** — 诊断当前 AI 产业的系统性偏差
+2. **“数字婴儿”：一个最低可行的整合蓝图** — 提出技术架构与核心原则
+3. **它为什么而学习？——数字婴儿的“初心”** — 回答目标函数与价值坐标
+4. **整合即重构：通往质变的时刻** — 行动起点、买单机制、安全边界
+5. **结语：从“材料学”到“生物学”** — 范式跃迁的呼吁
+6. **附录：相关前沿方向简述** — 神经符号 AI、记忆增强架构、行为缓存与技能固化、物理先验注入、具身智能统一接口
+
+---
+
+## 🌐 阅读方式
+
+- **GitHub 直接渲染**：点击上方文件列表中的 `index.zh.md` 或 `index.en.md`
+- **GitHub Pages**（如已启用）：访问 `https://你的用户名.github.io/仓库名/`
+
+---
+
+## 📄 许可
+
+本文采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可协议。欢迎转载、引用、翻译，请注明作者 **长天 & DeepSeekV4**。
+
+---
+
+## ✍️ 作者
+
+**长天** · **DeepSeekV4**
+
+*本文为人类与 AI 协作完成。所有论点均基于公开可验证的技术趋势与架构推演。*
