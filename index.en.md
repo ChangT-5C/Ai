@@ -1,4 +1,3 @@
-markdown
 
 <meta name="msvalidate.01" content="CC70827D8B5E8A5B8D77BF8287202F54" />
 
